@@ -11,10 +11,10 @@ The aim of this project is to predict the likelihood of customer churn using log
 
 # Dependencies
 
-Python 3.6 or higher
-pandas
-numpy
-seaborn
+Python 3.6 or higher,
+pandas,
+numpy,
+seaborn,
 sklearn
 
 # Files
